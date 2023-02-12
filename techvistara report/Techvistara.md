@@ -399,8 +399,12 @@ By combining these key points, meta is able to handle billions of users, providi
 
 ![](assets/images/kushagra.JPG)
 **"Kushagra Agarwal"**
+# Quiz #
 
-A quiz was conducted after the completion of all the sessions. The quiz was well-received by the participants, who eagerly participated and attempted to answer the questions to the best of their abilities.
+
+
+
+A quiz was conducted after the completion of all the sessions. The quiz was well-received by the participants, Who eagerly participated and attempted to answer the questions to the best of their abilities.
 
 At the end of the quiz, the scores were tallied and the winners were announced. The participants were awarded with various swags for their achievements, which served as a fitting reward for their hard work and dedication. The winners were thrilled and celebrated their success with great enthusiasm. With this Techvistara 2.0 came to an end.
 ![](assets/images/quiz.JPG)
