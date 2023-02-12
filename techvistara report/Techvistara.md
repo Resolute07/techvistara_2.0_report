@@ -30,6 +30,7 @@ So don’t miss out – come join us on January 13 at New Auditorium to experien
 - Session followed by quiz on Ethical Hacking
 - Session followed by quiz on Personal Branding
 - Session followed by quiz on System Design
+- Online Quiz to be conducted.
 - Any announcements, feedback, QnA.
 
 ## Event Details
